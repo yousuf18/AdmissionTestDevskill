@@ -1,4 +1,6 @@
-﻿using Task2;
+﻿using System;
+using System.Collections.Generic;
+using Task2;
 
 DataMerge dataMerge = new();
 dataMerge.CustomerList = new();

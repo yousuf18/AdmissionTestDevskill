@@ -1,0 +1,16 @@
+E:\DevskillAdmissionTest\AdmissionTestDevskill\AdmissionTest2\Task3\obj\Debug\net5.0\Task3.csproj.AssemblyReference.cache
+E:\DevskillAdmissionTest\AdmissionTestDevskill\AdmissionTest2\Task3\obj\Debug\net5.0\Task3.GeneratedMSBuildEditorConfig.editorconfig
+E:\DevskillAdmissionTest\AdmissionTestDevskill\AdmissionTest2\Task3\obj\Debug\net5.0\Task3.AssemblyInfoInputs.cache
+E:\DevskillAdmissionTest\AdmissionTestDevskill\AdmissionTest2\Task3\obj\Debug\net5.0\Task3.AssemblyInfo.cs
+E:\DevskillAdmissionTest\AdmissionTestDevskill\AdmissionTest2\Task3\obj\Debug\net5.0\Task3.csproj.CoreCompileInputs.cache
+E:\DevskillAdmissionTest\AdmissionTestDevskill\AdmissionTest2\Task3\bin\Debug\net5.0\Task3.exe
+E:\DevskillAdmissionTest\AdmissionTestDevskill\AdmissionTest2\Task3\bin\Debug\net5.0\Task3.deps.json
+E:\DevskillAdmissionTest\AdmissionTestDevskill\AdmissionTest2\Task3\bin\Debug\net5.0\Task3.runtimeconfig.json
+E:\DevskillAdmissionTest\AdmissionTestDevskill\AdmissionTest2\Task3\bin\Debug\net5.0\Task3.runtimeconfig.dev.json
+E:\DevskillAdmissionTest\AdmissionTestDevskill\AdmissionTest2\Task3\bin\Debug\net5.0\Task3.dll
+E:\DevskillAdmissionTest\AdmissionTestDevskill\AdmissionTest2\Task3\bin\Debug\net5.0\ref\Task3.dll
+E:\DevskillAdmissionTest\AdmissionTestDevskill\AdmissionTest2\Task3\bin\Debug\net5.0\Task3.pdb
+E:\DevskillAdmissionTest\AdmissionTestDevskill\AdmissionTest2\Task3\obj\Debug\net5.0\Task3.dll
+E:\DevskillAdmissionTest\AdmissionTestDevskill\AdmissionTest2\Task3\obj\Debug\net5.0\ref\Task3.dll
+E:\DevskillAdmissionTest\AdmissionTestDevskill\AdmissionTest2\Task3\obj\Debug\net5.0\Task3.pdb
+E:\DevskillAdmissionTest\AdmissionTestDevskill\AdmissionTest2\Task3\obj\Debug\net5.0\Task3.genruntimeconfig.cache
