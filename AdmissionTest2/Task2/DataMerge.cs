@@ -11,8 +11,11 @@ namespace Task2
         public List<Customer> CustomerList { get; set; }
         public List<Order> OrderList { get; set;}
 
-        public List<(string customerName, List<string> productNames)> GetInfo()
+        public  List<(string customerName, List<string> productNames)> GetInfo()
         {
+
+            var customerInfo = OrderList.Where(x => x.CustomerId != 1).ToList();
+
             throw new NotImplementedException();
         }
     }
